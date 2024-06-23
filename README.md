@@ -16,7 +16,7 @@ Welcome to the Flutter Todo App! This is a simple and intuitive Todo application
 Follow these instructions to get a copy of the project up and running on your local machine.
 
 
-![Mobile](https://raw.githubusercontent.com/zeusielk/images/main/photo_2024-06-24_00-08-56.jpg?token=GHSAT0AAAAAACTWHIQNBGZTB7DQBDVAWSKIZTYNQMA)
+![Mobile]([https://raw.githubusercontent.com/zeusielk/images/main/photo_2024-06-24_00-08-56.jpg?token=GHSAT0AAAAAACTWHIQNBGZTB7DQBDVAWSKIZTYNQMA](https://raw.githubusercontent.com/zeusielk/images/main/photo_2024-06-24_00-08-56.jpg?token=GHSAT0AAAAAACTWHIQNDWUBQYW6XVXRCOPWZTYNXEQ))
 ![Web](https://raw.githubusercontent.com/zeusielk/images/main/Screenshot_2.png?token=GHSAT0AAAAAACTWHIQM2KLEN4YYYY7KANFWZTYNTAA)
 
 Prerequisites
